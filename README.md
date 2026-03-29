@@ -4,7 +4,7 @@
 Name: Shashank Pandey  
 Roll No: 24MIP10188  
 
-#Software Chosen: Git
+##Software Chosen: Git
 Git is a free, open-source distributed version control system (DVCS) designed to track changes in source code during software development. It was created by Linus Torvalds in 2005 to manage the development of the Linux kernel.
 
 ---
