@@ -9,12 +9,12 @@ Git is a free, open-source distributed version control system (DVCS) designed to
 
 ---
 
-## 📌 Project Description
+## Project Description
 This project presents a detailed audit of Git, a distributed version control system developed by Linus Torvalds. It covers its origin, licensing model, Linux integration, ecosystem, and comparison with proprietary tools.
 
 ---
 
-## 💻 Scripts Description
+## Scripts Description
 
 ### Script 1 – System Identity
 Displays system information such as user, kernel version, uptime, and OS details.
@@ -33,8 +33,14 @@ Generates a personalized open-source statement based on user input.
 
 ---
 
-## ⚙️ How to Run
+## How to Run
+1- Open Terminal
 
-### Step 1: Install Git
-```bash
-sudo apt install git
+2- Go to folder containing Scripts
+
+3- Run the scripts using bash
+
+## Notes
+All scripts are tested on Linux environment
+
+Comments are added in each script for better understanding
