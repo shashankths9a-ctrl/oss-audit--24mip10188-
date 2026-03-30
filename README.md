@@ -1,46 +1,44 @@
-# OSS Audit Project
+# Audit of Free and Open Source Software
 
-## Student Details
+## Student Information
 Name: Shashank Pandey  
-Roll No: 24MIP10188  
+Roll Number: 24MIP10188  
 
 ## Software Chosen: Git
-Git is a free, open-source distributed version control system (DVCS) designed to track changes in source code during software development. It was created by Linus Torvalds in 2005 to manage the development of the Linux kernel.
+GIT is free and open-source, as well as a Distributed Version Control System (DVCS) that allows you to track source code changes throughout the entire software development lifecycle. Linus Torvalds developed Git in 2005 to help him manage the development of the Linux Kernel.
 
 ---
 
-## Project Description
-This project presents a detailed audit of Git, a distributed version control system developed by Linus Torvalds. It covers its origin, licensing model, Linux integration, ecosystem, and comparison with proprietary tools.
+## Description of the Project
+The project will examine in detail the audit of the Git Distributed Version Control System created by Linus Torvalds and the audit will cover the origins of the product, licensing, integration with Linux, its ecosystem, and how it compares to other proprietary tools.
 
 ---
 
-## Scripts Description
+## Description of Scripts
 
-### Script 1 – System Identity
-Displays system information such as user, kernel version, uptime, and OS details.
+### Script 1 - System Identity
+Prints out the system information including the user, kernel version, uptime, and OS information.
 
-### Script 2 – Package Inspector
-Checks if Git is installed and displays version and package information.
+### Script 2 - Package Inspector
+Verifies whether Git is installed or not and displays the version of Git and package information.
 
-### Script 3 – Disk and Permission Auditor
-Analyzes important system directories and displays their size, ownership, and permissions.
+### Script 3 - Disk & Permission Auditor
+Analyzes the important directories of the system and returns the size, owner, and permissions on each of those directories.
 
-### Script 4 – Log File Analyzer
-Reads a log file and counts occurrences of a keyword such as "error".
+### Script 4 - Log File Analyzer
+Reads a log file and counts how many times a particular word appears, such as "Error".
 
-### Script 5 – Open Source Manifesto Generator
-Generates a personalized open-source statement based on user input.
+### Script 5 - Open Source Manifesto Generator
+Generates a personalized Open Source Statement based on what you have entered.
 
 ---
 
 ## How to Run
-1- Open Terminal
+- Open Terminal
+- Navigate to the folder containing the scripts
+- Execute each script using bash.
 
-2- Go to folder containing Scripts
+## Additional Information
+All scripts were tested on a Linux-based Operating System.
 
-3- Run the scripts using bash
-
-## Notes
-All scripts are tested on Linux environment
-
-Comments are added in each script for better understanding
+Each script includes comments to enhance readability and understanding of the script.
